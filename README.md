@@ -8,6 +8,7 @@
 ### [Youtube video of final result](https://www.youtube.com/watch?v=E7O09cYJoqg)
 
 Shelf pictures with measurments:
+
 [One](https://raw.githubusercontent.com/clustermass/projector_shelf/master/shelf-all.jpg)
 
 [Two](https://raw.githubusercontent.com/clustermass/projector_shelf/master/shelf-top.jpg)
@@ -18,26 +19,38 @@ Shelf pictures with measurments:
 
 SketchUp 3D model is avaliable in repo.
 ### Parts needed:
+
 3/4" Copper pipes and connectors  used in the project:
 
 10 x T-connectors
+
   4 x  90 Degrees connectors
   4 x  45 Decrees connectors  
   2 x  3/4" Copper Tube Cap
 
 Pipes length:
-  8 x 1 11/16" (interconnectors)
-  5 x 19 5/8"
-  2 x 8 1/4"
-  2 x 8 3/8"
-  2 x 13 1/4"
-  2 x 26 7/8"
-  2 x 40" 
 
+  8 x 1 11/16" (interconnectors)
+  
+  5 x 19 5/8"
+  
+  2 x 8 1/4"
+  
+  2 x 8 3/8"
+  
+  2 x 13 1/4"
+  
+  2 x 26 7/8"
+  
+  2 x 40" 
+  
+  
 Other required hardware:
+
 1 x 2PCS /LOT Adjustable Angle tilt bracket for Drawing Board Desk Table Ratchet Bed Headrest Fitting ratchet [link](https://aliexpress.ru/item/32361337003.html)
 
 1 x 3-layer plywood piece 24" x 18 1/2"
+
 1 x Everbilt Off-White Rubber Leg Tips 3/4" (4-Pack) (UPC: 039003491195)
  [link](https://www.homedepot.com/p/Everbilt-3-4-in-Off-White-Rubber-Leg-Tips-4-per-Pack-49119/203661016)
 
