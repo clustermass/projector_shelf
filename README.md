@@ -9,10 +9,14 @@
 
 Shelf pictures with measurments:
 [One](https://raw.githubusercontent.com/clustermass/projector_shelf/master/shelf-all.jpg)
+
 [Two](https://raw.githubusercontent.com/clustermass/projector_shelf/master/shelf-top.jpg)
+
 [Three](https://raw.githubusercontent.com/clustermass/projector_shelf/master/shelf-side.jpg)
+
 [Four](https://raw.githubusercontent.com/clustermass/projector_shelf/master/shelf-bottom.jpg)
-[SketchUp 3D model]()
+
+SketchUp 3D model is avaliable in repo.
 ### Parts needed:
 3/4" Copper pipes and connectors  used in the project:
 
@@ -58,22 +62,36 @@ Other required hardware:
 
 Optional:
  [Light dimmer](https://www.amazon.com/dp/B07CZXMGRB/ref=psdc_6291364011_t2_B0000BYEF6)
+ 
   [Flush mount LED lamp](https://www.homedepot.com/p/Maxxima-7-5-in-Round-1-Light-White-Integrated-LED-Flush-Mount-MCL-711750W/311024949)
+  
  [Power strip](https://www.walmart.com/ip/Hyper-Tough-3-outlet-Power-Strip/378015615)
 
 Any cheap audio cable to put it inside pipe during soldering
+
 Any single outlet power externder to use as power cord inside & outside the pipe
+
 Any 3.5mm audio extender 
+
 Any hight quality rj45 patch cord with the lenght enough to pull it through pipe
+
 
 ### Tools needed:
 
 Propane torch for pipe soldering
+
 Husky 5/8 in. Junior Tube Cutter [link](https://www.homedepot.com/p/Husky-5-8-in-Junior-Tube-Cutter-80-511-111/304384093)
+
 Oatey 1.7-fl oz Tinning Soldering Flux
+
 Oatey 29024 Safe Flo 1/2 Pound Silver Solder (UPC: 038753290249)
+
 Drill with drill-bit set
+
 Couple of  Slip Joint Pliers or wrenches for 1/4 and 3/8 bolts
+
 Knife
+
 Sandpaper to prepare copper pipes & finish drilled holes
+
 Marker
